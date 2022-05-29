@@ -1,2 +1,4 @@
 # Simulation of vibration guitar string in unity
- Курсова робота з предмету "Рівняння математичної фізики"
+ Simulation of guitar string vibration. All project realized in Unity 2019, C#.
+ 
+ This is course work on the subject of "Equations of mathematical physics" by student of 3rd course, NUWM.
